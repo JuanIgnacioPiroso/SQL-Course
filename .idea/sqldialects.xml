@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Downloads/31-user-table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/curso/04-Funciones_agregadas.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/curso/strings.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/tareas/01-tarea.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/tareas/01-usuarios.sql" dialect="PostgreSQL" />
