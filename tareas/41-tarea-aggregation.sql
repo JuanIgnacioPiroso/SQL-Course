@@ -84,3 +84,5 @@ FROM users
 WHERE country IN ('Mexico', 'Honduras', 'Costa Rica')
 GROUP BY country
 order by country;
+
+DROP TABLE IF EXISTS users;
